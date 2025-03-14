@@ -1,1 +1,2 @@
 2025-03-13 18:28:42,903 - INFO - Initializing virtual controller output
+2025-03-13 18:33:23,558 - ERROR - Failed to initialize foohid: dlopen(/usr/local/lib/libfoohid.dylib, 0x0006): tried: '/usr/local/lib/libfoohid.dylib' (no such file), '/System/Volumes/Preboot/Cryptexes/OS/usr/local/lib/libfoohid.dylib' (no such file), '/usr/local/lib/libfoohid.dylib' (no such file)
